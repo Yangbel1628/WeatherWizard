@@ -2,7 +2,7 @@
 
 **WeatherWizard** is your magical companion for real-time weather updates and forecasts. Stay ahead of the weather, whether it’s sunshine, rain, or storms, all in one sleek app!  
 
-🌐 **Live Demo:** [Check WeatherWizard Live](weather-wizard-one.vercel.app)
+🌐 **Live Demo:** [Check WeatherWizard Live](https://weather-wizard-one.vercel.app/)
 
 ---
 
